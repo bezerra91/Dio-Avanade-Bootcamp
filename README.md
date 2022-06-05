@@ -1,5 +1,7 @@
 # Dio-Avanade-Bootcamp
 
+![Screenshot_Expo Go](https://user-images.githubusercontent.com/100867697/172056318-9fbe0120-58e0-4937-8157-eaee94da4747.jpg)
+
 ## Conteúdo
 
 Conhecendo o React Native
